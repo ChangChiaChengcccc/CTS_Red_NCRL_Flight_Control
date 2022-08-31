@@ -1,0 +1,10 @@
+*.sw*
+*.o
+*.elf
+*.orig
+screenlog.0
+log_hex.txt
+*.csv
+*.d
+*~
+*.bak
